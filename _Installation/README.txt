@@ -1,3 +1,5 @@
+https://github.com/Rust-SDL2/rust-sdl2
+
 For usage of
 https://docs.rs/sdl2/latest/sdl2/
 here is provided an installer for SDL2
