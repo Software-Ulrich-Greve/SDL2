@@ -15,6 +15,7 @@ if exist Cargo.lock del Cargo.lock
 if exist Cargo.toml del Cargo.toml
 if exist LICENSE del LICENSE
 if exist SDL2.dll del SDL2.dll
+if exist README.MD del README.md
 
 MD gnu-mingw
 MD msvc
